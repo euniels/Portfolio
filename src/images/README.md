@@ -1,0 +1,1 @@
+`pic.png` is the current hero portrait. `src/hero/WaterBlob.jsx` clips it inside the interactive SVG shape; change its `PHOTO_SRC` constant to swap the portrait. `id-card-face.png` is retained as the earlier ID artwork.

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 900" role="img" aria-labelledby="title desc">
+  <title id="title">SARIPH POS system architecture</title>
+  <desc id="desc">Verified architecture: React frontend, Laravel REST API with Sanctum authentication, and MySQL database. Cashier, supervisor, and administrator roles use the system.</desc>
+  <rect width="1440" height="900" fill="#131B2B"/>
+  <circle cx="1260" cy="80" r="300" fill="#2F4A63" opacity=".42"/>
+  <circle cx="120" cy="820" r="280" fill="#5B91A3" opacity=".13"/>
+  <path d="M0 770C260 710 510 830 760 774S1180 724 1440 790" fill="none" stroke="#5B91A3" stroke-width="2" opacity=".3"/>
+  <g font-family="Arial, sans-serif" fill="#CFEAE0">
+    <text x="90" y="104" font-size="27" font-weight="700" letter-spacing="5">SARIPH POS</text>
+    <text x="90" y="194" font-size="64" font-weight="700">How the local system fits together</text>
+    <text x="90" y="247" font-size="25" opacity=".8">Architecture drawn from the reviewed team project source</text>
+  </g>
+  <g stroke="#5B91A3" stroke-width="3" fill="none">
+    <path d="M426 496H518"/>
+    <path d="M923 496H1015"/>
+    <path d="M500 480l18 16-18 16"/>
+    <path d="M997 480l18 16-18 16"/>
+  </g>
+  <g font-family="Arial, sans-serif" text-anchor="middle">
+    <rect x="90" y="346" width="336" height="302" rx="30" fill="#2F4A63" stroke="#5B91A3" stroke-width="3"/>
+    <text x="258" y="434" fill="#CFEAE0" font-size="29" font-weight="700">React frontend</text>
+    <text x="258" y="480" fill="#CFEAE0" font-size="21">Cashier</text>
+    <text x="258" y="516" fill="#CFEAE0" font-size="21">Supervisor</text>
+    <text x="258" y="552" fill="#CFEAE0" font-size="21">Administrator</text>
+    <rect x="518" y="346" width="405" height="302" rx="30" fill="#CFEAE0"/>
+    <text x="720" y="434" fill="#131B2B" font-size="29" font-weight="700">Laravel REST API</text>
+    <text x="720" y="480" fill="#2F4A63" font-size="21">Sanctum authentication</text>
+    <text x="720" y="516" fill="#2F4A63" font-size="21">Sales · products · receipts</text>
+    <text x="720" y="552" fill="#2F4A63" font-size="21">Role-based access</text>
+    <rect x="1015" y="346" width="335" height="302" rx="30" fill="#2F4A63" stroke="#5B91A3" stroke-width="3"/>
+    <text x="1182" y="434" fill="#CFEAE0" font-size="29" font-weight="700">MySQL</text>
+    <text x="1182" y="480" fill="#CFEAE0" font-size="21">Local database</text>
+    <text x="1182" y="516" fill="#CFEAE0" font-size="21">System records</text>
+  </g>
+  <text x="90" y="796" fill="#CFEAE0" font-family="Arial, sans-serif" font-size="22" opacity=".7">Architecture diagram · Local team prototype</text>
+</svg>

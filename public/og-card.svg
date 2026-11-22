@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Eunel Angelo M. Guarte portfolio</title>
+  <desc id="desc">Frontend developer portfolio with an abstract sea-depth design in navy, blue, and pale mint</desc>
+  <rect width="1200" height="630" fill="#CFEAE0"/>
+  <path d="M0 450C198 407 378 497 588 456C795 416 982 458 1200 425V630H0Z" fill="#5B91A3"/>
+  <path d="M0 520C217 485 414 553 653 509C863 470 1039 516 1200 485V630H0Z" fill="#2F4A63"/>
+  <path d="M0 581C237 555 447 611 676 568C887 536 1066 584 1200 560V630H0Z" fill="#131B2B"/>
+  <circle cx="966" cy="185" r="59" fill="none" stroke="#2F4A63" stroke-width="2"/>
+  <circle cx="966" cy="185" r="20" fill="#5B91A3" stroke="#131B2B" stroke-width="2"/>
+  <path d="M966 205V383" fill="none" stroke="#2F4A63" stroke-width="2"/>
+  <rect x="854" y="383" width="224" height="102" rx="12" fill="#2F4A63" stroke="#131B2B" stroke-width="2"/>
+  <text x="86" y="196" fill="#131B2B" font-family="Georgia, serif" font-size="68">Eunel Angelo M. Guarte</text>
+  <text x="90" y="255" fill="#131B2B" font-family="Arial, sans-serif" font-size="29">Frontend Developer · University of Cabuyao</text>
+</svg>

@@ -1,0 +1,8 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "rewrites": [
+    { "source": "/projects/pioneerpath", "destination": "/projects/pioneerpath/index.html" },
+    { "source": "/projects/pitchpond", "destination": "/projects/pitchpond/index.html" },
+    { "source": "/projects/sariph-pos", "destination": "/projects/sariph-pos/index.html" }
+  ]
+}

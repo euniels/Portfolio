@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 900" role="img" aria-labelledby="title desc">
+  <title id="title">Recurra work in progress</title>
+  <desc id="desc">A placeholder for Recurra while the project is in development. No product screenshot is available yet.</desc>
+  <rect width="1440" height="900" fill="#2F4A63"/>
+  <circle cx="1110" cy="230" r="270" fill="none" stroke="#CFEAE0" stroke-width="2" opacity=".35"/>
+  <circle cx="1110" cy="230" r="192" fill="none" stroke="#5B91A3" stroke-width="48" opacity=".45"/>
+  <circle cx="1110" cy="230" r="94" fill="#5B91A3" opacity=".55"/>
+  <path d="M0 726C224 652 408 788 620 721S1056 659 1440 745" fill="none" stroke="#CFEAE0" stroke-width="2" opacity=".22"/>
+  <g fill="#CFEAE0" font-family="Arial, sans-serif">
+    <text x="100" y="235" font-size="25" font-weight="700" letter-spacing="6">PROJECT IN DEVELOPMENT</text>
+    <text x="90" y="437" font-size="148" font-weight="700">Recurra</text>
+    <text x="100" y="518" font-size="34">Primary Full-Stack Developer</text>
+    <text x="100" y="765" font-size="23" opacity=".75">Screenshots and full case study will follow.</text>
+  </g>
+</svg>
